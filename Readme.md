@@ -126,12 +126,23 @@ _Note: but in this process we don't have width & height contronl._
 
 <br>
 
-## Image uploaded with html tag  
+## Image uploaded with html tag  😀
 <img width="400" alt="Profile" src="./Me.jpg" title="Profile Image">
 
+😀
+
+<br>  
 
 
+## This is the table
+| Name | Email | Phone |
+| ---- | ----- | ----- |
+| Zonayed | zonayed98@ |0185022 |
+| Babor | Babor8@ |0185022 |
+| Tanim | Tanimkhan@ |0185022 |  
 
+
+<br>
 
 
 
