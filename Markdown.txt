@@ -1,0 +1,21 @@
+--Markdown language--
+
+This is a very ligt weigt language used for formatting any web text content. Basicallly it's uses for guiding about a hole file. We can use html tags on .md file. But it has also some syntax to use. 
+
+We are gonna learn md syntax 
+============================
+- How to make a comment
+- Normal text & new line
+- Horizontal rule
+- Headings
+- Paragraph
+- Italic
+- Bold or strong
+- Strikethrough or delete
+- Inline code block
+- Multiple line code block
+- List 
+- Lik
+- Image
+- Emoji
+- Table
